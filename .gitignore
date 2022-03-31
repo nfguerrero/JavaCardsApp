@@ -1,0 +1,13 @@
+/target/
+.classpath
+.project
+.settings/
+cstoolkit/.classpath
+cs362toolkit/.project
+cs362toolkit/.settings
+cs362toolkit/.gitignore
+cs362toolkit/target/.*
+cs362toolkit1stIteration
+toolkit
+
+/.metadata/
